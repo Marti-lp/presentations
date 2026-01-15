@@ -30,7 +30,7 @@ The talk looks at well-known cases, the principles behind social engineering, an
 - **Language:** Spanish (slides)
 
 A look at the malware landscape in Latin America, focusing on how antivirus detections are interpreted and what they can (and can’t) tell us.  
-It covers detection trends across the region, common malware families, file types, reported vulnerabilities, and attacker TTPs, along with regional case studies such as VictoryGate (Peru), Operation Absolute (Colombia), and banking trojans in South America.
+It covers detection trends across the region, common malware families, file types, reported vulnerabilities, and attacker TTPs, along with regional case studies.
 
 ---
 
