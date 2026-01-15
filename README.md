@@ -18,6 +18,7 @@ Across these talks, I explore topics such as:
 ### Social Engineering: Are We That Predictable?
 - **Nerdearla 2022**
 - **Audience:** General
+
 An overview of social engineering from its origins to present-day attacks.  
 The talk looks at well-known cases, the principles behind social engineering, and how human behavior plays a central role in techniques like phishing.
 
