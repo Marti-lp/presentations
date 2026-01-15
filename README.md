@@ -20,7 +20,7 @@ Across these talks, I explore topics such as:
 - **Audience:** General
 
 An overview of social engineering from its origins to present-day attacks.  
-The talk looks at well-known cases, the principles behind social engineering, and how human behavior plays a central role in techniques like phishing.
+The talk looks at well-known cases, the principles behind social engineering, and how human behavior plays a central role in techniques like phishing. Recording available [here](https://youtu.be/f6eI7sazFv0?si=UxcebyAI2KRHXZWY)
 
 ---
 
@@ -29,7 +29,7 @@ The talk looks at well-known cases, the principles behind social engineering, an
 - **Audience:** Technical
 
 A look at the malware landscape in Latin America, focusing on how antivirus detections are interpreted and what they can (and can’t) tell us.  
-It covers detection trends across the region, common malware families, file types, reported vulnerabilities, and attacker TTPs, along with regional case studies.
+It covers detection trends across the region, common malware families, file types, reported vulnerabilities, and attacker TTPs, along with regional case studies. Recording available [here](https://youtu.be/8scRBtoCK3E?si=5YhFaVqBfDnlC8rr)
 
 ---
 
@@ -38,7 +38,7 @@ It covers detection trends across the region, common malware families, file type
 - **Audience:** Technical
 
 This talk walks through the evolution of cyberattacks and defensive tools, and then dives into how modern antivirus solutions actually work at a low level.  
-It covers topics such as UEFI protections, malware DNA, memory analysis (syscalls, heap, stack, library loading), and the current challenges and promises of using AI for detection.
+It covers topics such as UEFI protections, malware DNA, memory analysis (syscalls, heap, stack, library loading), and the current challenges and promises of using AI for detection. Recording available [here](https://www.youtube.com/watch?v=55-P4Ap2ePw)
 
 ---
 
