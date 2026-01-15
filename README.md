@@ -27,7 +27,6 @@ The talk looks at well-known cases, the principles behind social engineering, an
 ### Malware in LATAM: The Real Picture
 - **Nerdearla 2023**
 - **Audience:** Technical
-- **Language:** Spanish (slides)
 
 A look at the malware landscape in Latin America, focusing on how antivirus detections are interpreted and what they can (and can’t) tell us.  
 It covers detection trends across the region, common malware families, file types, reported vulnerabilities, and attacker TTPs, along with regional case studies.
@@ -37,6 +36,7 @@ It covers detection trends across the region, common malware families, file type
 ### How Antivirus Software Works
 - **Ekoparty 2024**
 - **Audience:** Technical
+
 This talk walks through the evolution of cyberattacks and defensive tools, and then dives into how modern antivirus solutions actually work at a low level.  
 It covers topics such as UEFI protections, malware DNA, memory analysis (syscalls, heap, stack, library loading), and the current challenges and promises of using AI for detection.
 
@@ -45,10 +45,10 @@ It covers topics such as UEFI protections, malware DNA, memory analysis (syscall
 ### Anatomy of a Ransomware Attack
 - **Corporate presentation, 2025**
 - **Audience:** Security practitioners
+
 This talk breaks down a typical ransomware attack from start to finish, using real-world data from the region.  
 Topics include initial access via phishing or exploits, delivery through droppers and modular malware, persistence and lateral movement using native Windows features and living-off-the-land techniques, data exfiltration and extortion, RaaS models, and the growing role of AI in ransomware operations.
 
 _Content was originally presented in a corporate context and is based solely on public information._
 
----
 
